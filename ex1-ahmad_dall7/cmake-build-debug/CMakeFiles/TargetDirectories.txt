@@ -1,0 +1,3 @@
+C:/Users/ahdal_9lda2pd/Desktop/C-C++/c++ new_projects/ex4-ahmad_dall7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ahdal_9lda2pd/Desktop/C-C++/c++ new_projects/ex4-ahmad_dall7/cmake-build-debug/CMakeFiles/ex4_ahmad_dall7.dir
+C:/Users/ahdal_9lda2pd/Desktop/C-C++/c++ new_projects/ex4-ahmad_dall7/cmake-build-debug/CMakeFiles/edit_cache.dir
